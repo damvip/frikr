@@ -1,0 +1,2 @@
+# frikr
+Repositorio de capacitación
